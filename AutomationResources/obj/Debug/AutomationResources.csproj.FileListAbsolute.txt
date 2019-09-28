@@ -1,0 +1,10 @@
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\bin\Debug\chromedriver.exe
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\bin\Debug\AutomationResources.dll
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\bin\Debug\AutomationResources.pdb
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\bin\Debug\WebDriver.dll
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\bin\Debug\WebDriver.xml
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\obj\Debug\AutomationResources.csprojAssemblyReference.cache
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\obj\Debug\AutomationResources.csproj.CoreCompileInputs.cache
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\obj\Debug\AutomationResources.csproj.CopyComplete
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\obj\Debug\AutomationResources.dll
+C:\Users\ilijab\Desktop\AUTOMATION TESTINGG 03.06.2019\StartunWithAutomationTesting\AutomationResources\obj\Debug\AutomationResources.pdb

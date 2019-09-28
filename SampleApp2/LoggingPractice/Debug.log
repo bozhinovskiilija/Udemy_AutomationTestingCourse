@@ -1,0 +1,242 @@
+2019-06-09 14:33:46.8590 - 11 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 14:33:48.7931 - 11 - SampleApp2.Pages.HomePage.Search - INFO: Search for an item in the search bar => Blouse 
+2019-06-09 14:52:11.4102 - 11 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 14:52:13.0393 - 11 - SampleApp2.Pages.HomePage.Search - INFO: Search for an item in the search bar => Blouse 
+2019-06-09 14:55:53.6049 - 11 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 14:55:55.2780 - 11 - SampleApp2.Pages.HomePage.Search - INFO: Search for an item in the search bar => Blouse 
+2019-06-09 14:57:22.9390 - 11 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 14:57:26.5882 - 11 - SampleApp2.Pages.HomePage.Search - INFO: Search for an item in the search bar => Blouse 
+2019-06-09 18:33:39.2880 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:33:39.3250 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:33:54.4629 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 18:33:54.4929 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 18:33:54.6049 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the next button in the slider. 
+2019-06-09 18:33:54.6319 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SliderFeatureTests started a method tear down 
+2019-06-09 18:34:01.3833 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID3 
+2019-06-09 18:34:01.3833 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:34:01.3833 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:34:01.4173 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:34:01.4173 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:34:16.8202 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Open url=>http://automationpractice.com/index.php?controller=contact for Contact Us page. 
+2019-06-09 18:34:16.8202 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Contact Us page loaded successfully. 
+2019-06-09 18:34:16.8592 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ContactUsFeatureTests started a method tear down 
+2019-06-09 18:34:17.2382 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID2 
+2019-06-09 18:34:17.2382 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:34:17.2382 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:34:17.2382 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:34:17.2382 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:34:33.5921 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 18:34:33.5921 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 18:34:35.2312 - 12 - SampleApp2.Pages.HomePage.Search - INFO: Search for an item in the search bar => Blouse 
+2019-06-09 18:34:35.2312 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Search for=>Blouse in the search bar on the page. 
+2019-06-09 18:34:35.2662 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SearchFunctionalityTests started a method tear down 
+2019-06-09 18:34:35.3972 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID1 
+2019-06-09 18:34:35.3972 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:34:35.3972 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:39:08.7319 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:39:08.7729 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:39:23.5507 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 18:39:23.5777 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 18:39:23.6757 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the next button in the slider. 
+2019-06-09 18:39:23.6927 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SliderFeatureTests started a method tear down 
+2019-06-09 18:39:26.8689 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID3 
+2019-06-09 18:39:26.8689 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:39:26.8689 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:39:26.9039 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:39:26.9039 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:39:40.3427 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Open url=>http://automationpractice.com/index.php?controller=contact for Contact Us page. 
+2019-06-09 18:39:40.3427 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Contact Us page loaded successfully. 
+2019-06-09 18:39:40.3857 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ContactUsFeatureTests started a method tear down 
+2019-06-09 18:39:40.7087 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID2 
+2019-06-09 18:39:40.7087 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:39:40.7087 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:39:40.7087 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:39:40.7087 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 18:39:54.8235 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 18:39:54.8235 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 18:39:56.8246 - 12 - SampleApp2.Pages.HomePage.Search - INFO: Search for an item in the search bar => Blouse 
+2019-06-09 18:39:56.8246 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Search for=>Blouse in the search bar on the page. 
+2019-06-09 18:39:56.9886 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SearchFunctionalityTests started a method tear down 
+2019-06-09 18:39:58.4777 - 12 - SampleApp2.ScreenshotTaker.TakeScreenshotForFailure - ERROR: Screenshot Of Error=>c:\temp\CreatingReports\0609_1839\FAIL_TCID1.jpg 
+2019-06-09 18:39:58.4837 - 12 - SampleApp2.Reporter.ReportTestOutcome - ERROR: Test Failed=>SampleApp2.Tests.SearchFunctionalityTests 
+2019-06-09 18:39:58.6137 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID1 
+2019-06-09 18:39:58.6137 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 18:39:58.6137 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:18:45.4653 - 11 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:18:45.5193 - 11 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:19:01.7902 - 11 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 23:19:01.8222 - 11 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 23:19:01.8612 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate whether the Home Page loaded successfully. 
+2019-06-09 23:19:03.6843 - 11 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the contact us button in the header 
+2019-06-09 23:19:03.6843 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Contact Us page loaded successfully. 
+2019-06-09 23:19:03.7283 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ContactUsFeatureTests started a method tear down 
+2019-06-09 23:19:07.8835 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID4 
+2019-06-09 23:19:07.8835 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:19:07.8835 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:41:54.1887 - 11 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:41:54.2327 - 11 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:42:07.7015 - 11 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 23:42:07.7415 - 11 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 23:42:07.7415 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate whether the Home Page loaded successfully. 
+2019-06-09 23:42:09.3976 - 11 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the sign in button in the header 
+2019-06-09 23:42:09.3976 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Sign in page loaded successfully. 
+2019-06-09 23:42:09.5096 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SignInFunctionalityTests started a method tear down 
+2019-06-09 23:42:13.9208 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID5 
+2019-06-09 23:42:13.9208 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:42:13.9208 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:45:24.0537 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:45:24.0967 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:45:35.1733 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Open url=>http://automationpractice.com/index.php?controller=contact for Contact Us page. 
+2019-06-09 23:45:35.2003 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Contact Us page loaded successfully. 
+2019-06-09 23:45:35.2363 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ContactUsFeatureTests started a method tear down 
+2019-06-09 23:45:38.1505 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID2 
+2019-06-09 23:45:38.1505 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:45:38.1505 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:45:38.1805 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:45:38.1805 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:45:54.3684 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 23:45:54.3684 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 23:45:54.3814 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate whether the Home Page loaded successfully. 
+2019-06-09 23:45:55.4465 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the contact us button in the header 
+2019-06-09 23:45:55.4465 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Contact Us page loaded successfully. 
+2019-06-09 23:45:55.4775 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ContactUsFeatureTests started a method tear down 
+2019-06-09 23:45:55.6335 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID4 
+2019-06-09 23:45:55.6335 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:45:55.6335 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:45:55.6375 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:45:55.6375 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:46:11.5774 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 23:46:11.5774 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 23:46:13.3055 - 12 - SampleApp2.Pages.HomePage.Search - INFO: Search for an item in the search bar => Blouse 
+2019-06-09 23:46:13.3055 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Search for=>Blouse in the search bar on the page. 
+2019-06-09 23:46:13.4965 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SearchFunctionalityTests started a method tear down 
+2019-06-09 23:46:13.8445 - 12 - SampleApp2.ScreenshotTaker.TakeScreenshotForFailure - ERROR: Screenshot Of Error=>c:\temp\CreatingReports\0609_2345\FAIL_TCID1.jpg 
+2019-06-09 23:46:13.8445 - 12 - SampleApp2.Reporter.ReportTestOutcome - ERROR: Test Failed=>SampleApp2.Tests.SearchFunctionalityTests 
+2019-06-09 23:46:14.0186 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID1 
+2019-06-09 23:46:14.0186 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:46:14.0186 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:46:14.0186 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:46:14.0186 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:46:26.4123 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 23:46:26.4123 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 23:46:26.4223 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate whether the Home Page loaded successfully. 
+2019-06-09 23:46:28.4244 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the sign in button in the header 
+2019-06-09 23:46:28.4244 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Sign in page loaded successfully. 
+2019-06-09 23:46:28.4584 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SignInFunctionalityTests started a method tear down 
+2019-06-09 23:46:28.6364 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID5 
+2019-06-09 23:46:28.6364 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:46:28.6364 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:46:28.6364 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:46:28.6364 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-09 23:46:42.0342 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-09 23:46:42.0342 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-09 23:46:42.1512 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the next button in the slider. 
+2019-06-09 23:46:42.1642 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SliderFeatureTests started a method tear down 
+2019-06-09 23:46:42.9682 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID3 
+2019-06-09 23:46:42.9682 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-09 23:46:42.9682 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 00:59:16.5852 - 11 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 00:59:16.6302 - 11 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 00:59:30.4010 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Navigate to Complicated page url https://www.ultimateqa.com/complicated-page/ 
+2019-06-10 00:59:30.4430 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Sign in page loaded successfully. 
+2019-06-10 00:59:31.6481 - 11 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Fill out the form in the Random Stuff section.Name=pero. Email=>p@mail.com. Message=>test. 
+2019-06-10 00:59:31.7681 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that the form was submitted successfully 
+2019-06-10 00:59:31.8061 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ComplicatedPageTests started a method tear down 
+2019-06-10 00:59:32.1911 - 11 - SampleApp2.ScreenshotTaker.TakeScreenshotForFailure - ERROR: Screenshot Of Error=>c:\temp\CreatingReports\0610_0059\FAIL_TCID6.jpg 
+2019-06-10 00:59:32.1951 - 11 - SampleApp2.Reporter.ReportTestOutcome - ERROR: Test Failed=>SampleApp2.Tests.ComplicatedPageTests 
+2019-06-10 00:59:35.5353 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID6 
+2019-06-10 00:59:35.5353 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 00:59:35.5353 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:01:08.1816 - 10 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:01:08.2196 - 10 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:01:23.1605 - 10 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Navigate to Complicated page url https://www.ultimateqa.com/complicated-page/ 
+2019-06-10 01:01:23.1985 - 10 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Sign in page loaded successfully. 
+2019-06-10 01:03:33.4769 - 10 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Fill out the form in the Random Stuff section.Name=pero. Email=>p@mail.com. Message=>test. 
+2019-06-10 01:03:37.7972 - 10 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that the form was submitted successfully 
+2019-06-10 01:03:41.9314 - 10 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that the form was submitted successfully 
+2019-06-10 01:03:59.7204 - 10 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ComplicatedPageTests started a method tear down 
+2019-06-10 01:04:09.0950 - 10 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID6 
+2019-06-10 01:04:10.0550 - 10 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:04:10.6160 - 10 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:10:59.0104 - 11 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:10:59.0574 - 11 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:11:12.6012 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Navigate to Complicated page url https://www.ultimateqa.com/complicated-page/ 
+2019-06-10 01:11:12.6432 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Sign in page loaded successfully. 
+2019-06-10 01:11:13.7852 - 11 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Fill out the form in the Random Stuff section.Name=pero. Email=>p@mail.com. Message=>test. 
+2019-06-10 01:11:15.4623 - 11 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that the form was submitted successfully 
+2019-06-10 01:11:15.4653 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ComplicatedPageTests started a method tear down 
+2019-06-10 01:11:18.1405 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID6 
+2019-06-10 01:11:18.1405 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:11:18.1405 - 11 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:17:23.2084 - 10 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:17:23.2524 - 10 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:17:35.6261 - 10 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Navigate to Complicated page url https://www.ultimateqa.com/complicated-page/ 
+2019-06-10 01:17:35.6661 - 10 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Sign in page loaded successfully. 
+2019-06-10 01:17:44.1346 - 10 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Fill out the form in the Random Stuff section.Name=pero. Email=>p@mail.com. Message=>test. 
+2019-06-10 01:17:48.4418 - 10 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that the form was submitted successfully 
+2019-06-10 01:18:56.3207 - 10 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that the form was submitted successfully 
+2019-06-10 01:18:56.3347 - 10 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ComplicatedPageTests started a method tear down 
+2019-06-10 01:19:00.0549 - 10 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID6 
+2019-06-10 01:19:00.0549 - 10 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:19:00.0549 - 10 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:19:26.5324 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:19:26.5784 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:19:39.8892 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-10 01:19:39.9202 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-10 01:19:40.0202 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the next button in the slider. 
+2019-06-10 01:19:40.0442 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SliderFeatureTests started a method tear down 
+2019-06-10 01:19:43.1644 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID3 
+2019-06-10 01:19:43.1644 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:19:43.1644 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:19:43.1884 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:19:43.1884 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:19:53.9060 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Open url=>http://automationpractice.com/index.php?controller=contact for Contact Us page. 
+2019-06-10 01:19:53.9060 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Contact Us page loaded successfully. 
+2019-06-10 01:19:53.9590 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ContactUsFeatureTests started a method tear down 
+2019-06-10 01:19:54.1140 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID2 
+2019-06-10 01:19:54.1140 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:19:54.1140 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:19:54.1140 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:19:54.1140 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:20:06.9587 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-10 01:20:06.9587 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-10 01:20:06.9587 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate whether the Home Page loaded successfully. 
+2019-06-10 01:20:08.1158 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the contact us button in the header 
+2019-06-10 01:20:08.1158 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Contact Us page loaded successfully. 
+2019-06-10 01:20:08.1648 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ContactUsFeatureTests started a method tear down 
+2019-06-10 01:20:08.7968 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID4 
+2019-06-10 01:20:08.7968 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:20:08.7968 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:20:08.7968 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:20:08.7968 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:20:21.9826 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-10 01:20:21.9826 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-10 01:20:21.9826 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate whether the Home Page loaded successfully. 
+2019-06-10 01:20:23.8677 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Click the sign in button in the header 
+2019-06-10 01:20:23.8677 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Sign in page loaded successfully. 
+2019-06-10 01:20:23.9257 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SignInFunctionalityTests started a method tear down 
+2019-06-10 01:20:24.0597 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID5 
+2019-06-10 01:20:24.0597 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:20:24.0597 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:20:24.0597 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:20:24.0597 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:20:35.9994 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Navigate to Complicated page url https://www.ultimateqa.com/complicated-page/ 
+2019-06-10 01:20:35.9994 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that Sign in page loaded successfully. 
+2019-06-10 01:20:36.9555 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: Fill out the form in the Random Stuff section.Name=pero. Email=>p@mail.com. Message=>test. 
+2019-06-10 01:20:39.1066 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Validate that the form was submitted successfully 
+2019-06-10 01:20:39.1066 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.ComplicatedPageTests started a method tear down 
+2019-06-10 01:20:39.2436 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID6 
+2019-06-10 01:20:39.2436 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:20:39.2436 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:20:39.2436 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:20:39.2436 - 12 - SampleApp2.Tests.BaseTest.Setup - DEBUG: *************************************** TEST STARTED 
+2019-06-10 01:20:52.4643 - 12 - SampleApp2.Reporter.LogPassingTestStepToBugLogger - INFO: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-06-10 01:20:52.4643 - 12 - SampleApp2.Pages.HomePage.GoTo - INFO: Opened url => http://automationpractice.com/index.php 
+2019-06-10 01:20:53.9414 - 12 - SampleApp2.Pages.HomePage.Search - INFO: Search for an item in the search bar => Blouse 
+2019-06-10 01:20:53.9414 - 12 - SampleApp2.Reporter.LogTestStepForBugLogger - INFO: Search for=>Blouse in the search bar on the page. 
+2019-06-10 01:20:54.1634 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: SampleApp2.Tests.SearchFunctionalityTests started a method tear down 
+2019-06-10 01:20:54.5255 - 12 - SampleApp2.ScreenshotTaker.TakeScreenshotForFailure - ERROR: Screenshot Of Error=>c:\temp\CreatingReports\0610_0119\FAIL_TCID1.jpg 
+2019-06-10 01:20:54.5255 - 12 - SampleApp2.Reporter.ReportTestOutcome - ERROR: Test Failed=>SampleApp2.Tests.SearchFunctionalityTests 
+2019-06-10 01:20:54.6765 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: TCID1 
+2019-06-10 01:20:54.6765 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
+2019-06-10 01:20:54.6765 - 12 - SampleApp2.Tests.BaseTest.TearDown - DEBUG: *************************************** TEST STOPPED 
